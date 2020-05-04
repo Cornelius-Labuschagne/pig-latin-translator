@@ -6,7 +6,7 @@ you will need to know how run a python script in the CLI
 
 The program will accept any user input from the console
   1) you should only use a single paragraph
-  2) prefferably there should be no punction
+  2) prefferably there should be no punctuation
   
 Once you have inserted your sample text, the program will displaya copy of your original sample as well as the translated sample after.
  
